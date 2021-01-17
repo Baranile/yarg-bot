@@ -1,0 +1,24 @@
+{
+  "name": "yargi",
+  "version": "0.0.1",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Baran",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "install": "^0.13.0",
+    "lowdb": "^1.0.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "npm": "^6.14.11",
+    "parse-ms": "^2.1.0",
+    "useful-tools": "^0.2.6",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
